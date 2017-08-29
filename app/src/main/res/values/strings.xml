@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">扫码工具</string>
+    <string name="btn_scanner">扫描二维码</string>
+    <string name="btn_generate">生成和识别图片二维码</string>
+</resources>
